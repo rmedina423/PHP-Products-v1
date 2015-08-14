@@ -1,0 +1,31 @@
+body {
+	background-image: url("../images/wood_pattern.png");
+}
+
+/* This is all of my Header/Footer stylizing */
+
+header, footer {
+	background-color: #fff;
+	border-top: 1px solid #5D5D5D;
+	border-bottom: 1px solid #5D5D5D;
+	padding: 10px;
+}
+
+footer {
+	padding: 25px;
+}
+
+.title {
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+nav, .mainLinks a {
+	background-color: #444;
+	color: #fff;
+	padding: 5px;
+}
+
+
+
+/*This is my whatever*/
