@@ -2,8 +2,6 @@ body {
 	background-image: url("../images/wood_pattern.png");
 }
 
-/* This is all of my Header/Footer stylizing */
-
 header, footer {
 	background-color: #fff;
 	border-top: 1px solid #5D5D5D;
@@ -25,7 +23,3 @@ nav, .mainLinks a {
 	color: #fff;
 	padding: 5px;
 }
-
-
-
-/*This is my whatever*/
